@@ -15,4 +15,4 @@ OWNER_ADDRESS= < Metamask Account ID >
 PRIVATE_KEY= < Private from Metamask Account >
 
 
-Kindly replace the above values correctly. For reference rever dotenv file.
+Kindly replace the above values correctly. For reference refer dotenv file.
